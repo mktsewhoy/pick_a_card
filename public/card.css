@@ -15,6 +15,21 @@ h3 {
   font-size: 40px;
 }
 
+h4 {
+  font-family: Lancelot;, serif;
+  font-size: 32px;
+}
+
+h5 {
+  font-family: Lancelot;, serif;
+  font-size: 24px;
+}
+
+h6 {
+  font-family: Lancelot;, serif;
+  font-size: 16px;
+}
+
 p {
   font-family: 'EB Garamond', serif;
 }
