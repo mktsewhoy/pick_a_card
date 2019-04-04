@@ -1,32 +1,38 @@
 <link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Chela+One|Corben|EB+Garamond|Germania+One|Kumar+One|Lancelot|Macondo|MedievalSharp|Milonga|New+Rocker|Nova+Cut|UnifrakturCook:700|UnifrakturMaguntia" rel="stylesheet">
 
 h1 {
-  font-family: Lancelot;, serif;
+  font-family: 'Lancelot';, serif;
   font-size: 56px;
+  border-radius: 0px 8px 0px 8px
+  border-size: 2px;
+  border-style: inset;
 }
 
 h2 {
-  font-family: Lancelot;, serif;
+  font-family: 'Lancelot';, serif;
   font-size: 48px;
+  border-radius: 0px 6px 0px 6px
+  border-size: 2px;
+  border-style: inset;
 }
 
 h3 {
-  font-family: Lancelot;, serif;
+  font-family: 'Lancelot';, serif;
   font-size: 40px;
 }
 
 h4 {
-  font-family: Lancelot;, serif;
+  font-family: 'Lancelot';, serif;
   font-size: 32px;
 }
 
 h5 {
-  font-family: Lancelot;, serif;
+  font-family: 'Lancelot';, serif;
   font-size: 24px;
 }
 
 h6 {
-  font-family: Lancelot;, serif;
+  font-family: 'Lancelot';, serif;
   font-size: 16px;
 }
 
@@ -41,4 +47,9 @@ p {
   box-shadow: 6px 6px 4px #303030;
   color: black;
   padding: 28px;
+}
+
+.imgmain {
+  border-size: 2px;
+  border-style: ridge;
 }
