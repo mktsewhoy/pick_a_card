@@ -1,0 +1,29 @@
+<link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Chela+One|Corben|EB+Garamond|Germania+One|Kumar+One|Lancelot|Macondo|MedievalSharp|Milonga|New+Rocker|Nova+Cut|UnifrakturCook:700|UnifrakturMaguntia" rel="stylesheet">
+
+h1 {
+  font-family: Lancelot;, serif;
+  font-size: 56px;
+}
+
+h2 {
+  font-family: Lancelot;, serif;
+  font-size: 48px;
+}
+
+h3 {
+  font-family: Lancelot;, serif;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'EB Garamond', serif;
+}
+
+.card {
+  background: tan;
+  border-size: 3px;
+  border-style: groove;
+  box-shadow: 6px 6px 4px #303030;
+  color: black;
+  padding: 28px;
+}
